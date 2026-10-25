@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Parisa
 
-<!--
-**parisa-khosravi/Parisa-Khosravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Backend Developer
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Electrical Engineering graduate transitioning into Backend Development. 
+I'm learning Python and Django and building projects to strengthen my backend development skills.
+
+## 🛠️ Skills & Technologies
+
+### Programming & Backend
+- Python
+- Django
+
+### Database
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
